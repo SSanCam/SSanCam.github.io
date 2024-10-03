@@ -1,3 +1,3 @@
 # SSanCam.github.io
 
-## Repositorio principal
+## Repositorio principal de SSanCam
